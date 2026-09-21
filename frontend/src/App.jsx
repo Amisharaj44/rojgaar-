@@ -3,7 +3,7 @@ import axios from "axios"
 import workersImage from "./assets/workers.jpg"
 import "./App.css"
 
-const API = "http://127.0.0.1:8000"
+const API = "https://rojgaar-backend.onrender.com"
 
 const workTypes = [
   ["house help", "House Help / घरेलू काम"],
